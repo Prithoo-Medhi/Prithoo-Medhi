@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prithoo-Medhi
 - 👀 I’m interested in Web & Software development in Python.
-- 🌱 I’m currently learning ML and Fast-API.
+- 🌱 I’m currently learning Distributed Big Data and Fast-API.
 - 💞️ I’m looking to collaborate on whatever works or piques my interest
 - 📫 How to reach me: Send me an email at: prithoo@techvariable.com
 
